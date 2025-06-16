@@ -1,7 +1,7 @@
 # OpenRR-5k
 
 ## Dataset
-The dataset is available on Hugging Face 🤗:
+The dataset will be available on Hugging Face 🤗 around January 2026, in conjunction with NTIRE 2026.
 [OpenRR-5k Dataset](https://huggingface.co/datasets/qiuzhangTiTi/OpenRR-5k)
 
 The dataset contains:
