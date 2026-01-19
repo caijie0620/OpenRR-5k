@@ -2,8 +2,7 @@
 
 ## Dataset
 
-The OpenRR-5k dataset has been released on Hugging Face 🤗[OpenRR-5k Dataset](https://huggingface.co/datasets/qiuzhangTiTi/OpenRR-5k), in conjunction with **NTIRE 2026**  
-(https://www.cvlai.net/ntire/2026/).  
+The OpenRR-5k dataset has been released on Hugging Face 🤗[OpenRR-5k Dataset](https://huggingface.co/datasets/qiuzhangTiTi/OpenRR-5k), in conjunction with **NTIRE 2026**(https://www.cvlai.net/ntire/2026/).  
 
 
 The dataset consists of the following components:
