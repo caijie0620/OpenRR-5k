@@ -1,14 +1,11 @@
 # OpenRR-5k
 
-## Dataset
+## Model Requirements & Evaluation Criteria
+- Model Checkpoint Requirement: It is mandatory to use the same model checkpoint for both Val and Test.
+- PSNR Threshold: We will set a PSNR threshold of 32 as the baseline. Additionally, the current highest submission on Val is over 36.
+- Evaluation Eligibility: Models with a PSNR above the 32 threshold will be eligible for the final human evaluation on the test set.
+- Why: We would prefer participants to focus on optimizing their models' performance on the test set, rather than devoting excessive effort to maximizing the PSNR score on the validation set.
 
-The OpenRR-5k dataset has been released on Hugging Face 🤗 [OpenRR-5k Dataset](https://huggingface.co/datasets/qiuzhangTiTi/OpenRR-5k), in conjunction with [NTIRE 2026](https://www.cvlai.net/ntire/2026/). Please visit the [CodaBench Competition](https://www.codabench.org/competitions/12971/) page for more details.
-
-The dataset consists of the following components:
-- `train_5000.zip`: contains paired input images and corresponding GT images;
-- `val_300_blended.zip`: contains 300 validation input images only;
-- `val_300_transmission.zip`: contains 300 validation GT only;
-- `test_100_blended.zip`: contains input images only, without ground truth.
 
 ## Submission Guidelines
 
@@ -20,6 +17,18 @@ Please send the following three required items to both caijie0620@gmail.com and 
 - Email Content: CodeBench username, Team Leader Name/Email/Affiliation, as well as the CodeBench PSNR/SSIM/LPIPS scores for the final model.
 
 Note: The Methods LaTeX FactSheet is not required; only top teams will be asked to submit it after March 17.
+
+
+## Dataset
+
+The OpenRR-5k dataset has been released on Hugging Face 🤗 [OpenRR-5k Dataset](https://huggingface.co/datasets/qiuzhangTiTi/OpenRR-5k), in conjunction with [NTIRE 2026](https://www.cvlai.net/ntire/2026/). Please visit the [CodaBench Competition](https://www.codabench.org/competitions/12971/) page for more details.
+
+The dataset consists of the following components:
+- `train_5000.zip`: contains paired input images and corresponding GT images;
+- `val_300_blended.zip`: contains 300 validation input images only;
+- `val_300_transmission.zip`: contains 300 validation GT only;
+- `test_100_blended.zip`: contains input images only, without ground truth.
+
 
 ## Citation
 
