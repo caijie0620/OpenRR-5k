@@ -10,6 +10,17 @@ The dataset consists of the following components:
 - `val_300_transmission.zip`: contains 300 validation GT only;
 - `test_100_blended.zip`: contains input images only, without ground truth.
 
+## Submission Guidelines
+
+Please send the following three required items to both caijie0620@gmail.com and zhiyuanli1992@gmail.com before March 17, 23:59 PM PT.
+- val_300_output.zip: Contains only 300 validation output images.
+- test_100_output.zip: Contains only 100 test output images.
+- Links to or a zip file of the inference code.
+- Email Subject: TeamName
+- Email Content: CodeBench username, Team Leader Name/Email/Affiliation, as well as the CodeBench PSNR/SSIM/LPIPS scores for the final model.
+
+Note: The Methods LaTeX FactSheet is not required; only top teams will be asked to submit it after March 17.
+
 ## Citation
 
 If you find our code helpful in your research or work please cite our paper.
