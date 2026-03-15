@@ -14,7 +14,7 @@ Please send the following three required items to both caijie0620@gmail.com and 
 - test_100_output.zip: Contains only 100 test output images.
 - Links to or a zip file of the inference code.
 - Email Subject: TeamName
-- Email Content: CodeBench username, Team Leader Name/Email/Affiliation, as well as the CodeBench PSNR/SSIM/LPIPS scores for the final model, Training Data, etc.
+- Email Content: CodeBench username, Team Leader Name/Email/Affiliation, as well as the CodeBench PSNR/SSIM/LPIPS scores for the final model, Training Data, and optional explanation if your Val PSNR < 32.
 
 Note: The Methods LaTeX FactSheet is not required; only top teams will be asked to submit it after March 17.
 
