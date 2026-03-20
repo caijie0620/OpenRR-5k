@@ -1,5 +1,10 @@
 # OpenRR-5k
 
+## Please refer to the following link for the final LaTeX FactSheet submission.
+
+[Github Issue](https://github.com/caijie0620/OpenRR-5k/issues/8)
+
+
 ## Model Requirements & Evaluation Criteria
 - Model Checkpoint Requirement: It is mandatory to use the same model checkpoint for both Val and Test.
 - PSNR Threshold: We will set a PSNR threshold of 32 as the baseline. Additionally, the current highest submission on Val is over 36.
