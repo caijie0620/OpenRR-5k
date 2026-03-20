@@ -2,7 +2,7 @@
 
 ## Please refer to the following link for the final LaTeX FactSheet submission.
 
-[Github Issue](https://github.com/caijie0620/OpenRR-5k/issues/8)
+[LaTex Submission Guidelines](https://github.com/caijie0620/OpenRR-5k/issues/8)
 
 
 ## Model Requirements & Evaluation Criteria
