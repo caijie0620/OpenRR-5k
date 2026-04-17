@@ -33,25 +33,11 @@
 | 8 | SiGMoid | 34.2792 | 0.9749 | 0.0289 | 0.0205 | 3.7691 | 3.09 |
 | 9 | NTR | 33.9679 | 0.9729 | 0.0323 | 0.0228 | 3.7639 | 3.01 |
 | 10 | refineX | 30.5993 | 0.9715 | 0.0378 | 0.0291 | 3.7675 | 2.55 |
-
+| OPPO Baseline | 31.62 | 0.9229 | 0.0566 | 0.0539 | 3.6205 | baseline |
+| ACVLAB | 31.69 | 0.9241 | 0.0541 | 0.0551 | 3.6393 | late submission |
 </details>
 
 ---
-
-### 📉 Baselines
-
-| Method | PSNR | SSIM | LPIPS | DISTS | NIQE | Note |
-|--------|------|------|-------|-------|------|------|
-| OPPO Baseline | 31.62 | 0.9229 | 0.0566 | 0.0539 | 3.6205 | baseline |
-| ACVLAB | 31.69 | 0.9241 | 0.0541 | 0.0551 | 3.6393 | late submission |
-
----
-
-### 📝 Evaluation Protocol
-- Validation: objective metrics (OpenRR-5k)  
-- Test: subjective human evaluation  
-- Final ranking is determined **solely by subjective scores**
-
 
 
 ## Dataset
