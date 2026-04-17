@@ -1,6 +1,59 @@
 # OpenRR-5k
 
 
+## 🏆 NTIRE 2026 SIRR Challenge Leaderboard
+
+### 🥇🥈🥉 Award Winners
+
+| Prize | Team              | PSNR ↑ | SSIM ↑ | LPIPS ↓ | DISTS ↓ | NIQE ↓ | Subjective ↑ |
+|------|------------------|--------|--------|---------|---------|--------|--------------|
+| 🥇 1st | **RRay**          | **36.17** | 0.9758 | 0.0235 | 0.0135 | 3.7375 | **4.45** |
+| 🥈 2nd | **Xreflect Master** | 36.05 | **0.9776** | **0.0210** | **0.0127** | 3.7648 | 4.31 |
+| 🥈 2nd | **AIIALab**       | 35.38 | 0.9750 | 0.0231 | 0.0155 | 3.7737 | 4.23 |
+| 🥉 3rd | **VIP Lab**       | 34.69 | 0.9766 | 0.0231 | 0.0148 | **3.7218** | 3.85 |
+| 🥉 3rd | **YuFans**        | 34.91 | 0.9738 | 0.0257 | 0.0159 | 3.7783 | 3.59 |
+| 🥉 3rd | **KLETech-CEVI**  | 34.54 | 0.9748 | 0.0242 | 0.0150 | 3.7566 | 3.57 |
+
+---
+
+### 📊 Full Leaderboard
+
+<details>
+<summary>Click to expand</summary>
+
+| Rank | Team              | PSNR | SSIM | LPIPS | DISTS | NIQE | Subjective |
+|------|------------------|------|------|-------|-------|------|------------|
+| 1 | RRay | 36.1688 | 0.9758 | 0.0235 | 0.0135 | 3.7375 | 4.45 |
+| 2 | Xreflect Master | 36.0496 | 0.9776 | 0.0210 | 0.0127 | 3.7648 | 4.31 |
+| 3 | AIIALab | 35.3799 | 0.9750 | 0.0231 | 0.0155 | 3.7737 | 4.23 |
+| 4 | VIP Lab | 34.6872 | 0.9766 | 0.0231 | 0.0148 | 3.7218 | 3.85 |
+| 5 | YuFans | 34.9062 | 0.9738 | 0.0257 | 0.0159 | 3.7783 | 3.59 |
+| 6 | KLETech-CEVI | 34.5375 | 0.9748 | 0.0242 | 0.0150 | 3.7566 | 3.57 |
+| 7 | PSU | 34.5148 | 0.9746 | 0.0282 | 0.0191 | 3.7559 | 3.25 |
+| 8 | SiGMoid | 34.2792 | 0.9749 | 0.0289 | 0.0205 | 3.7691 | 3.09 |
+| 9 | NTR | 33.9679 | 0.9729 | 0.0323 | 0.0228 | 3.7639 | 3.01 |
+| 10 | refineX | 30.5993 | 0.9715 | 0.0378 | 0.0291 | 3.7675 | 2.55 |
+
+</details>
+
+---
+
+### 📉 Baselines
+
+| Method | PSNR | SSIM | LPIPS | DISTS | NIQE | Note |
+|--------|------|------|-------|-------|------|------|
+| OPPO Baseline | 31.62 | 0.9229 | 0.0566 | 0.0539 | 3.6205 | baseline |
+| ACVLAB | 31.69 | 0.9241 | 0.0541 | 0.0551 | 3.6393 | late submission |
+
+---
+
+### 📝 Evaluation Protocol
+- Validation: objective metrics (OpenRR-5k)  
+- Test: subjective human evaluation  
+- Final ranking is determined **solely by subjective scores**
+
+
+
 ## Dataset
 
 The OpenRR-5k dataset has been released on Hugging Face 🤗 [OpenRR-5k Dataset](https://huggingface.co/datasets/qiuzhangTiTi/OpenRR-5k), in conjunction with [NTIRE 2026](https://www.cvlai.net/ntire/2026/). Please visit the [CodaBench Competition](https://www.codabench.org/competitions/12971/) page for more details.
