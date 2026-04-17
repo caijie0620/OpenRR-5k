@@ -14,12 +14,8 @@
 | 🥉 3rd | **YuFans**        | 34.91 | 0.9738 | 0.0257 | 0.0159 | 3.7783 | 3.59 |
 | 🥉 3rd | **KLETech-CEVI**  | 34.54 | 0.9748 | 0.0242 | 0.0150 | 3.7566 | 3.57 |
 
----
 
 ### 📊 Full Leaderboard
-
-<details>
-<summary>Click to expand</summary>
 
 | Rank | Team              | PSNR | SSIM | LPIPS | DISTS | NIQE | Subjective |
 |------|------------------|------|------|-------|-------|------|------------|
@@ -35,9 +31,6 @@
 | 10 | refineX | 30.5993 | 0.9715 | 0.0378 | 0.0291 | 3.7675 | 2.55 |
 | - | OPPO Baseline | 31.62 | 0.9229 | 0.0566 | 0.0539 | 3.6205 | baseline |
 | - | ACVLAB | 31.69 | 0.9241 | 0.0541 | 0.0551 | 3.6393 | late submission |
-</details>
-
----
 
 
 ## Dataset
