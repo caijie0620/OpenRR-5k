@@ -43,6 +43,7 @@ The dataset consists of the following components:
 - `val_300_transmission.zip`: contains 300 validation GT only;
 - `test_100_blended.zip`: contains input images only, without ground truth.
 
+- `NTIRE2026_SIRR_TopTeam_Results.zip`: Visual Results for Top-6 Teams on Val and Test Sets.
 
 ## Citation
 
