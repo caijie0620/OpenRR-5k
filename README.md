@@ -1,8 +1,9 @@
 # OpenRR-5k
 
+## 📄 **Paper**: https://arxiv.org/pdf/2604.10321
 
 ## 🏆 NTIRE 2026 SIRR Challenge Leaderboard
-📄 **Paper**: https://arxiv.org/pdf/2604.10321
+
 ### 🥇🥈🥉 Award Winners
 
 | Prize | Team              | PSNR ↑ | SSIM ↑ | LPIPS ↓ | DISTS ↓ | NIQE ↓ | Subjective ↑ |
@@ -14,6 +15,8 @@
 | 🥉 3rd | **YuFans**        | 34.91 | 0.9738 | 0.0257 | 0.0159 | 3.7783 | 3.59 |
 | 🥉 3rd | **KLETech-CEVI**  | 34.54 | 0.9748 | 0.0242 | 0.0150 | 3.7566 | 3.57 |
 
+> [!NOTE]
+> PSNR, SSIM, LPIPS, DISTS, and NIQE are calculated on the **OpenRR-5k Validation set**, whereas Subjective scores are evaluated on the **OpenRR-5k Test set**; both sets of metrics represent results from the same model checkpoint.
 
 ### 📊 Full Leaderboard
 
