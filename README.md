@@ -4,7 +4,7 @@
 
 ## 🏆 NTIRE 2026 SIRR Challenge Leaderboard
 
-### 🥇🥈🥉 Award Winners
+### Award Winners
 
 | Prize | Team              | PSNR ↑ | SSIM ↑ | LPIPS ↓ | DISTS ↓ | NIQE ↓ | Subjective ↑ |
 |------|------------------|--------|--------|---------|---------|--------|--------------|
