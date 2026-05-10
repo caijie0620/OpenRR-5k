@@ -53,11 +53,14 @@ The dataset consists of the following components:
 If you find our code helpful in your research or work please cite our paper.
 
 ```bibtex
-@article{cai2026ntire,
+@misc{cai2026ntire2026challengesingle,
   title={NTIRE 2026 Challenge on Single Image Reflection Removal in the Wild: Datasets, Results, and Methods},
-  author={Cai, Jie and Yang, Kangning and Li, Zhiyuan and Vasluianu, Florin-Alexandru and Timofte, Radu and Li, Jinlong and Shen, Jinglin and Meng, Zibo and Cao, Junyan and Zhao, Lu and others},
-  journal={arXiv preprint arXiv:2604.10321},
-  year={2026}
+  author={Cai, Jie and Yang, Kangning and Li, Zhiyuan and Vasluianu, Florin-Alexandru and Timofte, Radu and Li, Jinlong and Shen, Jinglin and Meng, Zibo and others},
+  year={2026},
+  eprint={2604.10321},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2604.10321},
 }
 
 @inproceedings{cai2025openrr,
